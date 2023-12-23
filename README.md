@@ -1,5 +1,5 @@
 # spam_ham
-Develop Spam Filter using Feed Forward Neural Network with Back Propagation.
+Developed Spam Filter using Feed Forward Neural Network with Back Propagation.
 # Project Structure
 ![image](https://github.com/Rutuja0596/spam_ham/assets/55682857/02c173a0-12d0-4759-b491-6656f794c9dc)
 
